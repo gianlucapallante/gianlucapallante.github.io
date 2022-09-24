@@ -1,7 +1,8 @@
 # main links
 main:
   - title: "Research"
-    url: "https://scholar.google.com/citations?user=Fh-b57UAAAAJ&hl=it"
+    url: /_pages/research/
+    #url: "https://scholar.google.com/citations?user=Fh-b57UAAAAJ&hl=it"
   - title: "Teaching"
     url: /_pages/404/
   - title: "Quick-Start Guide"

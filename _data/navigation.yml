@@ -6,6 +6,8 @@ main:
     #url: 
   - title: "Teaching"
     url: /_pages/404/
+  #- title: "Example"
+  #  url: /_pages/example/
   #- title: "Quick-Start Guide"
   #  url: /docs/quick-start-guide/
   #- title: "About"

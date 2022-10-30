@@ -20,7 +20,7 @@ classes: wide
 
 ### Working Papers
 
-* _Does public R&D funding crowd-in private R&D investment? Evidence from military R&D expenditures for US states_ (with E. Russo, A. Roventini).  <ins>_Revise & Resubmit_</ins> at **Research Policy**
+* _Does public R&D funding crowd-in private R&D investment? Evidence from military R&D expenditures for US states_ (with E. Russo, A. Roventini).  <ins>_Revise & Resubmit_</ins> at **Research Policy**.
 
 	* [Working Paper](https://www.lem.sssup.it/WPLem/files/2020-32.pdf){: .btn .btn--inverse}
 

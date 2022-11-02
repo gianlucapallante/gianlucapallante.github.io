@@ -107,11 +107,11 @@ author:
   avatar           : "/assets/images/foto_profilo.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am post-doctoral researcher in Economics at Sant'Anna School of Advanced Studies. Webiste **under construction**."
   location         : "Somewhere"
-  email            :
+  email            : "g.pallante@santannapisa.it"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:g.pallante@santannapisa.it"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -133,7 +133,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/gianlucapallant"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -279,14 +279,21 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _portfolio
   - scope:
       path: ""
-      type: posts
+      type: portfolio
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
+
+
+## Adding Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/

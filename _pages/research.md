@@ -20,15 +20,17 @@ classes: wide
 		<summary><i> View Abstract </i></summary>
 		<small>Independent Component Analysis (ICA) is a statistical method that linearly transforms a random vector. Under the assumption that the observed data are mixtures of non-Gaussian and independent processes, ICA is able to recover the underlying components, but with a scale and order indeterminacy. Its application to structural vector autoregressive (SVAR) models allows the researcher to recover the impact of independent structural shocks on the observed series from estimated residuals. We analyze different ICA estimators, recently proposed within the field of SVAR analysis, and compare their performance in recovering structural coefficients. Moreover, we assess the size distortions of the estimators in hypothesis testing. We conduct our analysis by focusing on non-Gaussian distributional scenarios that get gradually close to the Gaussian case. The latter is the case where ICA methods fail to recover the independent components. Although the ICA estimators that we analyze show similar pattern of performance, two of them — the fastICA algorithm and the pseudo-maximum likelihood estimator — tend to perform relatively better in terms of variability, stability across sub- and super-Gaussian settings, and size distortion. We finally present an empirical illustration using US data to identify the effects of government spending and tax cuts on economic activity, thus providing an example where ICA techniques can be used for hypothesis testing. </small></details>
 
-
-### Working Papers
-
-* _Does public R&D funding crowd-in private R&D investment? Evidence from military R&D expenditures for US states_ (with E. Russo, A. Roventini).  <ins>_Revise & Resubmit_</ins> at **Research Policy**.
-
+* _Does public R&D funding crowd-in private R&D investment? Evidence from military R&D expenditures for US states_ (with E. Russo, A. Roventini).  **Research Policy (2023)**.
+	
+	* [Link Publication](https://authors.elsevier.com/c/1hIFuB5ASP-nI){: .btn .btn--inverse}
 	* [Working Paper](https://www.lem.sssup.it/WPLem/files/2020-32.pdf){: .btn .btn--inverse}
 	* <details>
 		<summary><i> View Abstract </i></summary>
-		<small>Military Research and Development (R&D) expenditures arguably represent one of the main innovation policy levers for US policy makers. They are sizeable, with a clear-cut public purpose (national defense) and with the government being their exclusive buyer. Exploiting a longitudinal dataset linking public R&D obligations to private R&D expenditures for US states, we investigate the impact of defense R&D on privately-financed R&D. To address potential endogeneity in the allocation of funds, we use an instrumental variable identification strategy leveraging the differential exposure of US states to national shocks in federal military R&D. We document considerable "crowding-in" effects with elasticities in the 0.11-0.14 range. These positive effects extend also to the labor market, when focusing on employment in selected R&D in- tensive industries and especially for engineers. </small></details>
+		<small>Defense R&D represents the largest component of US public R&D spending and historically has promoted a wide range of civilian innovations. However, the empirical evidence on the impact of defense R&D is scant and it does not provide conclusive results on the possible crowding-in (-out) effects on private R&D investment. Exploiting a longitudinal dataset linking public R&D obligations to private R&D expenditures for US states, we investigate the impact of defense R&D on privately-financed R&D. To address potential endogeneity in the allocation of funds, we use an instrumental variable identification strategy leveraging the differential exposure of US states to national shocks in federal military R&D. We document considerable crowding-in effects with elasticities in the 0.11–0.14 range. These positive effects extend also to the labor market, when focusing on employment in selected R&D intensive industries and especially for engineers. </small></details>
+
+
+### Working Papers
+
 
 * _Calibration and Validation of Macroeconomic Simulation Models: A General Protocol by Causal Search_ (with M. Martinoli, A. Moneta). <ins> _Under Review_ </ins>.
 

@@ -39,9 +39,14 @@ classes: wide
 		<summary> <i> View Abstract </i></summary>
 		<small> We introduce a general procedure for models’ calibration and validation. Configurations of parameters are selected on the basis of a loss function involving a distance between model-derived structural coefficients and their empirical counterparts. These, in both cases, are locally identified by exploiting non-Gaussianity in a structural vector autoregressive framework under a data-driven approach. We use model confidence set to account for the uncertainty in the selection procedure. We provide a measure of validation by comparing (model’s and empirical) shocks-variables structure. We apply our procedure to a complex macroeconomic simulation model that studies the link between climate change and economic growth. </small></details>
 
-### Projects
-* _Mitigating Systemic Risk and Financial Contagion: An Agent-Based Model Exploration_ (with M. Guerini, M. Napoletano, A. Roventini).
+* _Robust-less-fragile: Tackling Systemic Risk and Financial Contagion in a Macro Agent-Based Model_ (with M. Guerini, M. Napoletano & A. Roventini). <ins> _Under Review_ </ins>.
 
+	* [Working Paper](https://www.lem.sssup.it/WPLem/files/2024-08.pdf){: .btn .btn--inverse}
+	* <details>
+		<summary> <i> View Abstract </i></summary>
+		<small> We extend the Schumpeter meeting Keynes (K+S; see Dosi et al., 2010, 2013, 2015) to model the emergence and the dynamics of an interbank network in the money market. The extended model allows banks to directly exchange funds,while evaluating their interbank positions using a network-based clearing mechanism (NEVA, see Barucca et al., 2020). These novel adds on, allow us to better measure financial contagion and systemic risk events in the model and to study the possible interactions between micro-prudential and macro-prudential policies. We find that the model can replicate new stylized facts concerning the topology of the interbank network, as well as the dynamics of individual banks’ balance sheets. Policy results suggest that the economic system at large can benefit from the introduction of a micro-prudential regulation that takes into account the interbank network relationships. Such a policy decreases the incidence of systemic risk events and the bankruptcies of financial institutions. Moreover, a trade-off between financial stability and macroeconomic performance does not emerge in a two-pillar regulatory framework grounded on i) a Basel III macro-prudential regulation and ii) a NEVA-based micro-prudential policy. Indeed, the NEVA allows the economic system to achieve financial stability without overly stringent capital requirements. </small></details>
+
+### Projects
 * _Creating Jobs Out of the Green: The Employment Effects of the Energy Transition_ (with E. Cappa, F. Lamperti).
 
 * _Revisiting the Role of the Fiscal Multiplier in a Monetary Union_.

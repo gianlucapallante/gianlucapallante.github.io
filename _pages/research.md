@@ -32,7 +32,7 @@ classes: wide
 ### Working Papers
 
 
-* _Calibration and Validation of Macroeconomic Simulation Models: A General Protocol by Causal Search_ (with M. Martinoli, A. Moneta). <ins> _Under Review_ </ins>.
+* _Calibration and Validation of Macroeconomic Simulation Models: A General Protocol by Causal Search_ (with M. Martinoli, A. Moneta). <ins> _Revise and Resubmit at the Journal of Economic Behaviour and Organization_ </ins>.
 
 	* [Working Paper](https://www.lem.sssup.it/WPLem/files/2022-33.pdf){: .btn .btn--inverse}
 	* <details>

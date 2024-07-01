@@ -5,7 +5,7 @@ main:
     url: /_pages/research/
     #url: 
   - title: "Teaching"
-    url: /_pages/404/
+    url: /_pages/teaching/
   #- title: "Example"
   #  url: /_pages/example/
   #- title: "Quick-Start Guide"

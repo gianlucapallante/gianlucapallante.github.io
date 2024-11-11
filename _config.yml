@@ -290,3 +290,8 @@ defaults:
       comments: # true
       share: true
       related: true
+
+collections:
+  teaching_courses:
+    output: true
+    permalink: /teaching/:path/

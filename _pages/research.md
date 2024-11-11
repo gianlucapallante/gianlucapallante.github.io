@@ -22,24 +22,24 @@ classes: wide
 
 * _Does public R&D funding crowd-in private R&D investment? Evidence from military R&D expenditures for US states_ (with E. Russo, A. Roventini).  **Research Policy (2023)**.
 	
-	* [Link Publication](https://authors.elsevier.com/c/1hIFuB5ASP-nI){: .btn .btn--inverse}
+	* [Link Publication](https://doi.org/10.1016/j.respol.2023.104807){: .btn .btn--inverse}
 	* [Working Paper](https://www.lem.sssup.it/WPLem/files/2020-32.pdf){: .btn .btn--inverse}
 	* <details>
 		<summary><i> View Abstract </i></summary>
 		<small>Defense R&D represents the largest component of US public R&D spending and historically has promoted a wide range of civilian innovations. However, the empirical evidence on the impact of defense R&D is scant and it does not provide conclusive results on the possible crowding-in (-out) effects on private R&D investment. Exploiting a longitudinal dataset linking public R&D obligations to private R&D expenditures for US states, we investigate the impact of defense R&D on privately-financed R&D. To address potential endogeneity in the allocation of funds, we use an instrumental variable identification strategy leveraging the differential exposure of US states to national shocks in federal military R&D. We document considerable crowding-in effects with elasticities in the 0.11–0.14 range. These positive effects extend also to the labor market, when focusing on employment in selected R&D intensive industries and especially for engineers. </small></details>
 
+* _Calibration and Validation of Macroeconomic Simulation Models by Statistical Causal Search_ (with M. Martinoli, A. Moneta). <ins> **Journal of Economic Behaviour and Organization** </ins>.
+	
+	* [Link Publication](https://doi.org/10.1016/j.jebo.2024.106786){: .btn .btn--inverse}
+	* [Working Paper](https://www.lem.sssup.it/WPLem/files/2022-33.pdf){: .btn .btn--inverse}
+	* <details>
+		<summary><i> View Abstract </i></summary>
+		<small>We introduce a general procedure for macroeconomic models’ calibration and validation. Configurations of parameters are selected on the basis of a loss function involving a distance between model-derived structural coefficients and their empirical counterparts. These, in both cases, are locally identified by exploiting non-Gaussianity in a structural vector autoregressive framework under a data-driven approach. We use model confidence set to account for the uncertainty in the selection procedure. We provide a measure of validation by comparing (model’s and empirical) shocks-variables structure. We apply our procedure to a complex macroeconomic simulation model that studies the link between climate change and economic growth. </small></details>
 
 ### Working Papers
 
 
-* _Calibration and Validation of Macroeconomic Simulation Models by Statistical Causal Search_ (with M. Martinoli, A. Moneta). <ins> _Accepted with minor revisions at the Journal of Economic Behaviour and Organization_ </ins>.
-
-	* [Working Paper](https://www.lem.sssup.it/WPLem/files/2022-33.pdf){: .btn .btn--inverse}
-	* <details>
-		<summary> <i> View Abstract </i></summary>
-		<small> We introduce a general procedure for models’ calibration and validation. Configurations of parameters are selected on the basis of a loss function involving a distance between model-derived structural coefficients and their empirical counterparts. These, in both cases, are locally identified by exploiting non-Gaussianity in a structural vector autoregressive framework under a data-driven approach. We use model confidence set to account for the uncertainty in the selection procedure. We provide a measure of validation by comparing (model’s and empirical) shocks-variables structure. We apply our procedure to a complex macroeconomic simulation model that studies the link between climate change and economic growth. </small></details>
-
-* _Robust-less-fragile: Tackling Systemic Risk and Financial Contagion in a Macro Agent-Based Model_ (with M. Guerini, M. Napoletano & A. Roventini). <ins> _Revise and Resubmint at Journal of Financial Stability_ </ins>.
+* _Robust-less-fragile: Tackling Systemic Risk and Financial Contagion in a Macro Agent-Based Model_ (with M. Guerini, M. Napoletano & A. Roventini). <ins> _Conditionally accepted at the Journal of Financial Stability_ </ins>.
 
 	* [Working Paper](https://www.lem.sssup.it/WPLem/files/2024-08.pdf){: .btn .btn--inverse}
 	* <details>

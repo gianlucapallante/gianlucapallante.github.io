@@ -36,3 +36,10 @@ search: false
 .button-group .btn--inverse:hover {
     background-color: #555; /* Slightly lighter background on hover */
 }
+
+details small {
+    font-size: 0.45em; /* Reduce size further if needed */
+    line-height: 1.5; /* Adjust for readability */
+    color: #555; /* Optional: lighter color to distinguish abstract text */
+    margin-bottom: 0; /* Removes additional space below abstract text */
+}

@@ -51,7 +51,7 @@ classes: wide
 ### Working Papers
 
 
-* _Robust-less-fragile: Tackling Systemic Risk and Financial Contagion in a Macro Agent-Based Model_ (with M. Guerini, M. Napoletano & A. Roventini). <ins> _Conditionally accepted at the Journal of Financial Stability_ </ins>.
+* _Robust-less-fragile: Tackling Systemic Risk and Financial Contagion in a Macro Agent-Based Model_ (with M. Guerini, M. Napoletano & A. Roventini). <ins> _Accepted at the Journal of Financial Stability_ </ins>.
 	
 	<details>
 		<summary>

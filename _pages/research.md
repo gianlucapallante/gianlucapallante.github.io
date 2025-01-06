@@ -48,18 +48,19 @@ classes: wide
 		<small>We introduce a general procedure for macroeconomic models’ calibration and validation. Configurations of parameters are selected on the basis of a loss function involving a distance between model-derived structural coefficients and their empirical counterparts. These, in both cases, are locally identified by exploiting non-Gaussianity in a structural vector autoregressive framework under a data-driven approach. We use model confidence set to account for the uncertainty in the selection procedure. We provide a measure of validation by comparing (model’s and empirical) shocks-variables structure. We apply our procedure to a complex macroeconomic simulation model that studies the link between climate change and economic growth. </small>
 	</details> 
 
-### Working Papers
-
-
-* _Robust-less-fragile: Tackling Systemic Risk and Financial Contagion in a Macro Agent-Based Model_ (with M. Guerini, M. Napoletano & A. Roventini). <ins> _Accepted at the Journal of Financial Stability_ </ins>.
+* _Robust-less-fragile: Tackling Systemic Risk and Financial Contagion in a Macro Agent-Based Model_ (with M. Guerini, M. Napoletano & A. Roventini). <ins> **Journal of Financial Stability (2025)** </ins>.
 	
 	<details>
 		<summary>
 		<i>View Abstract</i>
+			<a href="https://doi.org/10.1016/j.jfs.2024.101352" class="btn btn--inverse" target="_blank" style="margin-left: 10px;">Link Publication</a>
 			<a href="https://www.lem.sssup.it/WPLem/files/2024-08.pdf" class="btn btn--inverse" target="_blank" style="margin-left: 10px;">Working Paper</a>
 		</summary>
-		<small>We extend the Schumpeter meeting Keynes (K+S; see Dosi et al., 2010, 2013, 2015) to model the emergence and the dynamics of an interbank network in the money market. The extended model allows banks to directly exchange funds,while evaluating their interbank positions using a network-based clearing mechanism (NEVA, see Barucca et al., 2020). These novel adds on, allow us to better measure financial contagion and systemic risk events in the model and to study the possible interactions between micro-prudential and macro-prudential policies. We find that the model can replicate new stylized facts concerning the topology of the interbank network, as well as the dynamics of individual banks’ balance sheets. Policy results suggest that the economic system at large can benefit from the introduction of a micro-prudential regulation that takes into account the interbank network relationships. Such a policy decreases the incidence of systemic risk events and the bankruptcies of financial institutions. Moreover, a trade-off between financial stability and macroeconomic performance does not emerge in a two-pillar regulatory framework grounded on i) a Basel III macro-prudential regulation and ii) a NEVA-based micro-prudential policy. Indeed, the NEVA allows the economic system to achieve financial stability without overly stringent capital requirements. </small>
-	</details>
+		<small>We extend the Schumpeter meeting Keynes (K+S) agent-based model by introducing an evolving interbank network in the money market. Banks are exposed to counterparty risk and evaluate interbank positions using a network valuation (NEVA) clearing mechanism, which ensures systemic risk minimization with minimal assumptions on banks’ behavior. The model can replicate several stylized facts about the topology of the interbank network and the dynamics of banks’ balance sheets. The model encompasses financial contagion and systemic risk, allowing us to study the interactions between micro- and macro-prudential policies. Our results suggest that the introduction of a micro-prudential regulation also accounting for the network structure can reduce the incidence of systemic risk events. We also find that, in presence of a two-pillar regulatory framework – grounded on a Basel III macro-prudential regulation and a NEVA-based micro-prudential one –, there is no trade-off between financial stability and macroeconomic performance. This points towards the possibility of designing a regulatory framework able to achieve financial stability without overly stringent capital requirements. </small>
+	</details> 
+
+### Working Papers
+
 
 * _Creating Jobs Out of the Green: The Employment Effects of the Energy Transition_ (with E. Cappa, F. Lamperti).
 	

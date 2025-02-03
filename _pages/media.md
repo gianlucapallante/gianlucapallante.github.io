@@ -1,6 +1,6 @@
 ---
 title: "Media"
-permalink: /media/
+permalink: /_pages/media/
 layout: single
 author_profile: true
 ---

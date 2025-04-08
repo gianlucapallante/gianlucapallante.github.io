@@ -1,0 +1,45 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+.button-group {
+    display: flex;
+    gap: 8px; /* Adjust space between buttons */
+    margin-bottom: 1em; /* Space below the button group */
+}
+
+.button-group .btn, 
+.button-group .btn--inverse, 
+.button-group .btn--abstract summary {
+    padding: 4px 8px; /* Reduced padding for a smaller look */
+    font-size: 10px; /* Smaller font size */
+    border-radius: 3px; /* Slightly smaller rounded corners */
+}
+
+.button-group .btn--abstract summary {
+    display: inline-block;
+    background-color: #333; /* Matches the other buttons' background */
+    color: white; /* Matches the other buttons' text color */
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.button-group .btn--abstract summary:hover,
+.button-group .btn:hover, 
+.button-group .btn--inverse:hover {
+    background-color: #555; /* Slightly lighter background on hover */
+}
+
+details small {
+    font-size: 0.45em; /* Reduce size further if needed */
+    line-height: 1.5; /* Adjust for readability */
+    color: #555; /* Optional: lighter color to distinguish abstract text */
+    margin-bottom: 0; /* Removes additional space below abstract text */
+}

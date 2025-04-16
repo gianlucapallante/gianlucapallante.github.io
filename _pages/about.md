@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.santannapisa.it/it/istituto-di-economia'>Institute of Economics and l'EmBEDS - Scuola Superiore Sant'Anna</a>.
 

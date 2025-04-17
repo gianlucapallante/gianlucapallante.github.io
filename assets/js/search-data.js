@@ -423,10 +423,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-we-are-excited-to-invite-submissions-for-the-special-session-on-alternative-paradigms-for-climate-macroeconomics-from-empirics-to-modeling-at-the-eaepe-annual-conference-2025-in-athens-greece-september-24-26-2025-submission-deadline-february-15-2025",
-          title: 'We are excited to invite submissions for the special session on “Alternative Paradigms...',
+          section: "News",},{id: "news-call-for-papers-eaepe-2025-special-session",
+          title: 'Call for Papers – EAEPE 2025 Special Session',
           description: "",
-          section: "News",},{id: "news-i-have-just-joined-to-an-amazing-research-team-in-a-erc-funded-project-find-finance-and-innovation-to-couple-negative-emissions-and-sustainable-development-for-details-and-the-latest-visit-the-find-website-launched-today",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_7/";
+            },},{id: "news-i-have-just-joined-to-an-amazing-research-team-in-a-erc-funded-project-find-finance-and-innovation-to-couple-negative-emissions-and-sustainable-development-for-details-and-the-latest-visit-the-find-website-launched-today",
           title: 'I have just joined to an amazing Research Team in a ERC-funded Project...',
           description: "",
           section: "News",},{id: "projects-project-1",

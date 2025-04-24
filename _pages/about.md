@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><small>g.pallante@santannapisa.it</small></p>
+    <p><small>g[dot]pallante[at]santannapisa[dot]it</small></p>
     <p><small>Piazza Martiri della Libertà 33</small></p>
     <p><small>56127 Pisa, Italy</small></p>
 news: true # includes a list of news items

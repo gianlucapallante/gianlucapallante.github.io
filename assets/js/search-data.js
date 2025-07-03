@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-research",
-          title: "Research",
-          description: "Publications and Working papers in reversed chronological order.",
+  },{id: "nav-publications",
+          title: "Publications",
+          description: "Publications in reversed chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/research/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-repositories",
           title: "Repositories",
@@ -37,12 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "dropdown-research",
-              title: "Research",
+        },{id: "dropdown-publications",
+              title: "Publications",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/research/";
+                window.location.href = "/publications/";
               },
             },{id: "post-a-post-with-plotly-js",
         

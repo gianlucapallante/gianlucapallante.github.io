@@ -412,24 +412,31 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-announcement-1",
+          title: 'Announcement_1',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-announcement-3",
+          title: 'Announcement_3',
           description: "",
-          section: "News",},{id: "news-call-for-papers-eaepe-2025-special-session",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-call-for-papers-eaepe-2025-special-session",
           title: 'Call for Papers – EAEPE 2025 Special Session',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_7/";
-            },},{id: "news-i-have-just-joined-to-an-amazing-research-team-in-a-erc-funded-project-find-finance-and-innovation-to-couple-negative-emissions-and-sustainable-development-for-details-and-the-latest-visit-the-find-website-launched-today",
+            },},{id: "news-i-have-just-joined-to-an-amazing-research-team-in-a-erc-funded-project-find-finance-and-innovation-to-couple-negative-emissions-and-sustainable-development-for-details-and-the-latest-visit-the-find-website-https-find-erc-eu-launched-today",
           title: 'I have just joined to an amazing Research Team in a ERC-funded Project...',
+          description: "",
+          section: "News",},{id: "news-looking-forward-to-participating-in-the-4th-abm4policy-workshop-hosted-for-the-first-time-by-the-european-central-bank-it-s-an-honor-to-be-included-among-such-a-terrific-lineup-of-speakers-and-presentations-now-in-its-fourth-edition-this-workshop-is-becoming-a-key-event-for-promoting-agent-based-modeling-within-the-central-banking-community-26-27-june-ecb-main-building-frankfurt-am-main-this-is-also-the-last-day-for-registering-all-the-info-at-https-lnkd-in-dfdpsjfi",
+          title: 'Looking forward to participating in the 4th ABM4Policy workshop, hosted for the first...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

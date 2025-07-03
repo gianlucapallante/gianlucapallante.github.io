@@ -9,4 +9,4 @@ published: true
 
 I have just joined to an amazing Research Team in a ERC-funded Project FIND "Finance and Innovation to couple Negative emissions and sustainable Development".
 
-For details and the latest visit the FIND website, launched today!
+For details and the latest visit the FIND website @ https://find-erc.eu, launched today!

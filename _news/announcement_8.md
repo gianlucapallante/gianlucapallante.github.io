@@ -1,8 +1,8 @@
 ---
 layout: post
 date: 2025-06-10 07:59:00-0400
-title: Joining ERC funded project FIND Research Team
-inline: true
+title: ABM4 Policy workshop @ European Central Bank
+inline: false
 related_posts: false
 published: true
 ---

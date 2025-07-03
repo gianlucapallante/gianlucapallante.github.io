@@ -2,7 +2,7 @@
 layout: post
 date: 2025-02-08 07:59:00-0400
 title: Joining ERC funded project FIND Research Team
-inline: true
+inline: false
 related_posts: false
 published: true
 ---

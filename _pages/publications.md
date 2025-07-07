@@ -8,13 +8,26 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
-<!--{% include bib_search.liquid %}-->
-
 <div class="publications">
 
-{% bibliography %}
+  <!-- =================================================================== -->
+  <!--                      PUBLISHED PAPERS SECTION                       -->
+  <!-- =================================================================== -->
+  <h2 class="mt-4">Peer-Reviewed Publications</h2>
+  {% bibliography --query @*[status!=working-paper and status!=in-progress] %}
+
+
+  <!-- =================================================================== -->
+  <!--                        WORKING PAPERS SECTION                       -->
+  <!-- =================================================================== -->
+  <h2 class="mt-5">Working Papers</h2>
+  {% bibliography --query @*[status=working-paper] %}
+
+
+  <!-- =================================================================== -->
+  <!--                      WORK IN PROGRESS SECTION                       -->
+  <!-- =================================================================== -->
+  <h2 class="mt-5">Work in Progress</h2>
+  {% bibliography --query @*[status=in-progress] %}
 
 </div>

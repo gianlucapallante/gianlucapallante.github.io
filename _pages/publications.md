@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: Research
 description: Publications in reversed chronological order.
 nav: true
 nav_order: 2
@@ -21,26 +21,30 @@ nav_order: 2
 <hr> 
 <!-- The <hr> adds a nice horizontal line for visual separation -->
 
+
 <div class="publications">
 
   <!-- =================================================================== -->
   <!--                      PUBLISHED PAPERS SECTION                       -->
   <!-- =================================================================== -->
-  <h2 class="mt-4">Peer-Reviewed Publications</h2>
+  <!-- Add the id="peer-reviewed" here -->
+  <h2 id="peer-reviewed" class="mt-4">Peer-Reviewed Publications</h2>
   {% bibliography --query @*[status=published] %}
 
 
   <!-- =================================================================== -->
   <!--                        WORKING PAPERS SECTION                       -->
   <!-- =================================================================== -->
-  <h2 class="mt-5">Working Papers</h2>
+  <!-- Add the id="working-papers" here -->
+  <h2 id="working-papers" class="mt-5">Working Papers</h2>
   {% bibliography --query @*[status=working-paper] %}
 
 
   <!-- =================================================================== -->
   <!--                      WORK IN PROGRESS SECTION                       -->
   <!-- =================================================================== -->
-  <h2 class="mt-5">Work in Progress</h2>
+  <!-- Add the id="work-in-progress" here -->
+  <h2 id="work-in-progress" class="mt-5">Work in Progress</h2>
   {% bibliography --query @*[status=in-progress] %}
 
 </div>

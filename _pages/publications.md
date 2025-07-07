@@ -8,6 +8,19 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
+
+<!-- =================================================================== -->
+<!--                        "JUMP TO" LINKS                              -->
+<!-- =================================================================== -->
+<p style="text-align: center; font-size: 1.1rem;">
+  Jump to: 
+  <a href="#peer-reviewed">Peer-Reviewed Publications</a> |
+  <a href="#working-papers">Working Papers</a> |
+  <a href="#work-in-progress">Work in Progress</a>
+</p>
+<hr> 
+<!-- The <hr> adds a nice horizontal line for visual separation -->
+
 <div class="publications">
 
   <!-- =================================================================== -->

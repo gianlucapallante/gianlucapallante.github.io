@@ -14,7 +14,7 @@ nav_order: 2
   <!--                      PUBLISHED PAPERS SECTION                       -->
   <!-- =================================================================== -->
   <h2 class="mt-4">Peer-Reviewed Publications</h2>
-  {% bibliography --query @*[status!=working-paper and status!=in-progress] %}
+  {% bibliography --query @*[status=published] %}
 
 
   <!-- =================================================================== -->

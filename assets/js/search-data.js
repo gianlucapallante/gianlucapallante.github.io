@@ -420,6 +420,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_8/";
+            },},{id: "news-eaepe-2025-athens-wrap-up",
+          title: 'EAEPE 2025 @Athens wrap-up',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_9/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",

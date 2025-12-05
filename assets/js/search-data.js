@@ -425,6 +425,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_9/";
+            },},{id: "news-starting-grant-from-fondo-italiano-per-la-scienza-italian-erc",
+          title: 'Starting Grant from Fondo Italiano per la Scienza (Italian ERC)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_10/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",

@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Prova I am post-doctoral research fellow at the Institute of Economics of Sant'Anna School of Advanced Studies (Scuola Superiore Sant'Anna) of Pisa.
+I am post-doctoral research fellow at the Institute of Economics of Sant'Anna School of Advanced Studies (Scuola Superiore Sant'Anna) of Pisa.
 
 I am a macroeconomist, interested in the analysis of technical change and the transformative role of industrial and innovation policies — such as those aimed at triggering a just and orderly green transition.
 

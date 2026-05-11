@@ -60,6 +60,12 @@
   ],
   "awards": [
     {
+      "title": "FIS Starting Grant",
+      "date": "2025",
+      "awarder": "Italian Ministry of University and Research, Fondo Italiano per la Scienza (FIS)",
+      "summary": "Awarded a 5-year Starting Grant (€1.039 mln) as PI of the project 'Nature-related systemic risk: micro-exposures, macro-financial policies for a Network-based Integrated Assessment' (NARNIA)."
+    },
+    {
       "title": "National Scientific Qualification as Associate Professor in Economics.",
       "date": "2025-03-07",
       "awarder": "Italian Ministry of University and Research",
@@ -73,7 +79,7 @@
       "summary": "Sponsorship: prof. Willi Semmler"
     },
     {
-      "title": "Visiting Scholar",
+      "title": "Visiting Ph.D.",
       "date": "2019",
       "awarder": "OFCE-SciencesPo (Innovation and Competition department), SKEMA Business School, Sophia-Antipolis, France",
       "url": "",
@@ -125,6 +131,13 @@
     }
   ],
   "publications": [
+    {
+      "name": "Reassessing the Cross-Sectional Fiscal Multiplier: Evidence From U.S. Defense Procurement, 1966–2019",
+      "publisher": "Journal of Applied Econometrics",
+      "releaseDate": "2026",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/jae.70058",
+      "summary": ""
+    },
     {
       "name": "Robust-less-fragile: Tackling Systemic Risk and Financial Contagion in a Macro Agent-Based Model.",
       "publisher": "Journal of Financial Stability",

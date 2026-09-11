@@ -435,6 +435,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_11/";
+            },},{id: "news-joining-the-university-of-pisa-as-assistant-professor-in-economics",
+          title: 'Joining the University of Pisa as Assistant Professor in Economics',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_12/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -485,7 +490,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%67.%70%61%6C%6C%61%6E%74%65@%73%61%6E%74%61%6E%6E%61%70%69%73%61.%69%74", "_blank");
+          window.open("mailto:%67%69%61%6E%6C%75%63%61.%70%61%6C%6C%61%6E%74%65@%75%6E%69%70%69.%69%74", "_blank");
         },
       },{
         id: 'social-linkedin',

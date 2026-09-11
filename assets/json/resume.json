@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Gianluca Pallante",
-    "label": "Post-doctoral Researcher",
+    "label": "Assistant Professor in Economics",
     "image": "",
-    "email": "g[dot]pallante[at]santannapisa[dot]it",
+    "email": "gianluca[dot]pallante[at]unipi[dot]it",
     "phone": "",
-    "url": "https://www.santannapisa.it/it/gianluca-pallante",
+    "url": "https://www.ec.unipi.it/",
     "summary": "",
     "location": {
-      "address": "Piazza Martiri della libertà 33",
-      "postalCode": "56127 (PI)",
+      "address": "Via Cosimo Ridolfi 10",
+      "postalCode": "56124 (PI)",
       "city": "Pisa",
       "countryCode": "IT",
       "region": ""
@@ -24,12 +24,22 @@
   },
   "work": [
     {
+      "name": "Department of Economics and Management, University of Pisa",
+      "position": "Assistant Professor in Economics",
+      "location": "Pisa, Italy",
+      "url": "https://www.ec.unipi.it/",
+      "startDate": "2026-09-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
       "name": "Institute of Economics and L'EMbeDS, Scuola Superiore Sant'Anna",
       "position": "Post-doctoral Researcher",
       "location": "Pisa, Italy",
       "url": "",
       "startDate": "2020-12-01",
-      "endDate": "",
+      "endDate": "2026-08-31",
       "summary": "Short- and long-term impact of innovation, fiscal, monetary, and macroprudential policies. Analysis of the financing mechanisms for the energy transition, decarbonization policies, and their economic repercussions",
       "highlights": ["Demand-side Policies for Innovation and Energy Transition; Financial Stability; Agent-based Modelling."]
     }

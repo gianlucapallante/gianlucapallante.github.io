@@ -2,16 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.santannapisa.it/it/istituto-di-economia'>Institute of Economics and l'EmBEDS - Scuola Superiore Sant'Anna</a>.
+subtitle: <a href='https://www.ec.unipi.it/'>Department of Economics and Management - University of Pisa</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><small>g[dot]pallante[at]santannapisa[dot]it</small></p>
-    <p><small>Piazza Martiri della Libertà 33</small></p>
-    <p><small>56127 Pisa, Italy</small></p>
+    <p><small>gianluca[dot]pallante[at]unipi[dot]it</small></p>
+    <p><small>Via Cosimo Ridolfi 10</small></p>
+    <p><small>56124 Pisa, Italy</small></p>
 news: true # includes a list of news items
 announcements:
   enabled: true
@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am post-doctoral research fellow at the Institute of Economics of Sant'Anna School of Advanced Studies (Scuola Superiore Sant'Anna) of Pisa.
+I am Assistant Professor in Economics at the Department of Economics and Management of the University of Pisa.
 
 I am a macroeconomist, interested in the analysis of technical change and the transformative role of industrial and innovation policies — such as those aimed at triggering a just and orderly green transition.
 

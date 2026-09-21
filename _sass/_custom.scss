@@ -228,7 +228,7 @@ article > .clearfix ~ h2 {
 // Publications ----------------------------------------------------------------
 
 .publications {
-  > h2 {
+  > h2:not(.bibliography) {
     font-size: 0.85rem;
     font-weight: 600;
     letter-spacing: 0.12em;
@@ -271,7 +271,13 @@ article > .clearfix ~ h2 {
       border-left-color: var(--global-theme-color);
     }
 
+    .abbr {
+      margin-bottom: 0.35rem;
+    }
+
     .abbr abbr {
+      margin-bottom: 0;
+      text-align: left;
       font-family: $font-mono;
       font-size: 0.7rem;
       font-weight: 500;
@@ -287,8 +293,18 @@ article > .clearfix ~ h2 {
       }
     }
 
+    .preview-col figure {
+      margin: 0.2rem 0 0.75rem;
+    }
+
     .preview {
+      width: 100%;
+      aspect-ratio: 4 / 3;
+      object-fit: contain;
+      padding: 0.4rem;
+      background: #ffffff;
       border: 1px solid var(--global-divider-color);
+      border-radius: 10px !important;
       box-shadow: none !important;
     }
 

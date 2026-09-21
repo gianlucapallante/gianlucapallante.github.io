@@ -20,11 +20,12 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <ul class="research-tags">
-  <li>Agent-based modelling</li>
+  <li>Macroeconomics</li>
+  <li>Fiscal policy</li>
   <li>Technical change</li>
   <li>Green transition</li>
   <li>Financial stability</li>
-  <li>Industrial policy</li>
+  <li>Agent-based modelling</li>
 </ul>
 
 I am Assistant Professor in Economics at the Department of Economics and Management of the University of Pisa.

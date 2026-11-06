@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-narnia",
+          title: "NARNIA",
+          description: "NAture-related systemic Risks — micro exposures, macro-financial policies for a Network-based Integrated Assessment",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/narnia/";
+          },
         },{id: "nav-repositories",
           title: "Repositories",
           description: "",

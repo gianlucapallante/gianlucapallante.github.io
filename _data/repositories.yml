@@ -1,4 +1,7 @@
 repo_description_lines_max: 2
 
+github_users:
+  - gianlucapallante
+
 github_repos:
   - gianlucapallante/ica-svars-comparative-analysis

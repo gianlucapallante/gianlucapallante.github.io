@@ -350,3 +350,49 @@ article > .clearfix ~ h2 {
     }
   }
 }
+
+// Repository cards (shields.io badges) ----------------------------------------
+
+.repositories .repo {
+  width: 100%;
+}
+
+.repo-card {
+  height: 100%;
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 10px;
+  background: var(--global-card-bg-color);
+  text-align: left;
+
+  .repo-card-title {
+    display: inline-block;
+    margin-bottom: 0.6rem;
+    font-family: $font-sans;
+    font-weight: 600;
+    color: var(--global-theme-color);
+    word-break: break-word;
+  }
+
+  .repo-card-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+
+    img {
+      height: 20px;
+    }
+  }
+}
+
+.repo-user-card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+
+  .repo-user-avatar img {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+  }
+}

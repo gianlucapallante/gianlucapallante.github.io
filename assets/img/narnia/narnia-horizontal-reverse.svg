@@ -1,0 +1,341 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1106.513" height="317.225" viewBox="-383.983 -9.224 1106.513 317.225">
+  <title>NARNIA lockup — horizontal (reverse, for dark backgrounds)</title>
+  <g id="symbol" transform="matrix(0.847 0 0 0.847 -399.049 -2.097)">
+  <defs>
+    <linearGradient id="symbol-leaf-1-grad" gradientUnits="userSpaceOnUse" x1="105.81" y1="84" x2="131.92" y2="56.65">
+      <stop offset="0" stop-color="#7CC27E"/>
+      <stop offset="1" stop-color="#7CC27E"/>
+    </linearGradient>
+    <linearGradient id="symbol-leaf-2-grad" gradientUnits="userSpaceOnUse" x1="170.89" y1="124.83" x2="209.04" y2="84.93">
+      <stop offset="0" stop-color="#7CC27E"/>
+      <stop offset="1" stop-color="#7CC27E"/>
+    </linearGradient>
+    <linearGradient id="symbol-leaf-3-grad" gradientUnits="userSpaceOnUse" x1="284.17" y1="230.87" x2="259.43" y2="270.03">
+      <stop offset="0" stop-color="#A4C374"/>
+      <stop offset="1" stop-color="#7CC27E"/>
+    </linearGradient>
+    <linearGradient id="symbol-leaf-4-grad" gradientUnits="userSpaceOnUse" x1="114.67" y1="294.02" x2="122.48" y2="242.68">
+      <stop offset="0" stop-color="#7CC27E"/>
+      <stop offset="1" stop-color="#7CC27E"/>
+    </linearGradient>
+    <linearGradient id="symbol-link-07-grad" gradientUnits="userSpaceOnUse" x1="324.48" y1="172.99" x2="302.1" y2="159.56">
+      <stop offset="0" stop-color="#E8735A"/>
+      <stop offset="0.2" stop-color="#E8735A"/>
+      <stop offset="0.55" stop-color="#DDA45F"/>
+      <stop offset="1" stop-color="#7CC4C8"/>
+    </linearGradient>
+    <clipPath id="symbol-leaf-1-clip"><path id="symbol-leaf-1-clip-path" d="M100.61 89.38 C116.49 104.54 151.92 84.53 138.71 49.49 C103.1 37.91 84.74 74.22 100.61 89.38Z"/></clipPath>
+    <clipPath id="symbol-leaf-2-clip"><path id="symbol-leaf-2-clip-path" d="M164.14 131.78 C172.51 139.79 220.75 146.68 219.35 74.04 C146.72 75.89 155.76 123.78 164.14 131.78Z"/></clipPath>
+    <clipPath id="symbol-leaf-3-clip"><path id="symbol-leaf-3-clip-path" d="M251.63 273.49 C260.06 280.53 309.54 281.78 301.26 214.15 C233.23 217.96 243.21 266.44 251.63 273.49Z"/></clipPath>
+    <clipPath id="symbol-leaf-4-clip"><path id="symbol-leaf-4-clip-path" d="M113.28 302.4 C130 304.95 165.89 282.28 124.74 227.09 C69.03 267.54 96.56 299.85 113.28 302.4Z"/></clipPath>
+  </defs>
+  <g id="symbol-ring" fill="none" stroke-linecap="round">
+    <path id="symbol-ring-dash-01" d="M350.38 221.13 A150.02 150.02 0 0 1 345.35 234.51" stroke="#DDA45F" stroke-width="5.04"/>
+    <path id="symbol-ring-dash-02" d="M346.12 234.84 A150.86 150.86 0 0 1 334.92 255.99" stroke="#DDA45F" stroke-width="5.7"/>
+    <path id="symbol-ring-dash-03" d="M334.92 255.99 A150.86 150.86 0 0 1 323.11 272.11" stroke="#A4C374" stroke-width="5.7"/>
+    <path id="symbol-ring-dash-04" d="M323.11 272.11 A150.86 150.86 0 0 1 320.3 275.35" stroke="#7CC27E" stroke-width="5.7"/>
+    <path id="symbol-ring-dash-05" d="M320.3 275.35 A150.86 150.86 0 0 1 307.33 288.26" stroke="#7CC4C8" stroke-width="5.7"/>
+    <path id="symbol-ring-dash-06" d="M308.38 289.45 A152.46 152.46 0 0 1 256.06 319.6" stroke="#7CC4C8" stroke-width="5.7"/>
+    <path id="symbol-ring-dash-07" d="M188.25 321.47 A147.69 147.69 0 0 1 161.18 315.26" stroke="#7CC4C8" stroke-width="5.7"/>
+    <path id="symbol-ring-dash-08" d="M143.54 307.23 A146.89 146.89 0 0 1 129.49 299.44" stroke="#7CC4C8" stroke-width="5.7"/>
+    <path id="symbol-ring-dash-09" d="M84.66 255.81 A147.1 147.1 0 0 1 70.38 228.03" stroke="#7CC4C8" stroke-width="5.04"/>
+    <path id="symbol-ring-dash-10" d="M67.18 210.63 A144.87 144.87 0 0 1 66.34 207.12" stroke="#7CC4C8" stroke-width="5.04"/>
+    <path id="symbol-ring-dash-11" d="M67.36 140.32 A144.49 144.49 0 0 1 74.09 119.83" stroke="#7CC4C8" stroke-width="5.04"/>
+    <path id="symbol-ring-dash-12" d="M74.19 119.87 A144.39 144.39 0 0 1 89.62 91.83" stroke="#7CC4C8" stroke-width="5.04"/>
+    <path id="symbol-ring-dash-13" d="M133.22 47.42 A147.72 147.72 0 0 1 140.71 43.34" stroke="#7CC27E" stroke-width="5.7"/>
+    <path id="symbol-ring-dash-14" d="M140.71 43.34 A147.72 147.72 0 0 1 158.87 35.6" stroke="#7CC4C8" stroke-width="5.7"/>
+    <path id="symbol-ring-dash-15" d="M170.73 30.38 A149.3 149.3 0 0 1 174.24 29.53" stroke="#7CC4C8" stroke-width="5.04"/>
+    <path id="symbol-ring-dash-16" d="M219.31 25.14 A150.36 150.36 0 0 1 222.9 25.47" stroke="#7CC4C8" stroke-width="5.04"/>
+    <path id="symbol-ring-dash-17" d="M240.16 29.09 A149.54 149.54 0 0 1 299.25 56.87" stroke="#7CC4C8" stroke-width="5.04"/>
+    <path id="symbol-ring-dash-18" d="M321.46 78.49 A149.28 149.28 0 0 1 348.41 125.45" stroke="#7CC4C8" stroke-width="5.04"/>
+  </g>
+  <g id="symbol-links" stroke-linecap="round">
+    <line id="symbol-link-01" x1="156.21" y1="237.69" x2="164.35" y2="232.03" stroke="#7CC4C8" stroke-width="5.7" stroke-linecap="round"/>
+    <line id="symbol-link-02" x1="161.05" y1="313.43" x2="206.8" y2="254" stroke="#7CC4C8" stroke-width="5.7" stroke-linecap="round"/>
+    <line id="symbol-dash-03" x1="217.94" y1="175.72" x2="240.06" y2="201.55" stroke="#DDA45F" stroke-width="5.7" stroke-linecap="round"/>
+    <line id="symbol-dash-04" x1="244.86" y1="207.15" x2="253.14" y2="216.82" stroke="#DDA45F" stroke-width="5.7" stroke-linecap="round"/>
+    <line id="symbol-link-05" x1="149.49" y1="179.06" x2="206.34" y2="254.42" stroke="#7CC4C8" stroke-width="5.04" stroke-linecap="round"/>
+    <line id="symbol-link-06" x1="163.33" y1="232.74" x2="182.62" y2="219.31" stroke="#7CC27E" stroke-width="9.89" stroke-linecap="round"/>
+    <line id="symbol-link-07" x1="281.53" y1="147.3" x2="324.48" y2="172.99" stroke="url(#symbol-link-07-grad)" stroke-width="5.7" stroke-linecap="round"/>
+    <line id="symbol-link-08" x1="93.6" y1="207.64" x2="150.46" y2="178.74" stroke="#7CC4C8" stroke-width="5.04" stroke-linecap="round"/>
+    <line id="symbol-link-09" x1="312.32" y1="217.3" x2="334.72" y2="201.95" stroke="#DDA45F" stroke-width="5.7" stroke-linecap="round"/>
+    <line id="symbol-link-10" x1="327.49" y1="206.91" x2="353.25" y2="189.26" stroke="#E8735A" stroke-width="5.7" stroke-linecap="round"/>
+    <line id="symbol-link-11" x1="150.32" y1="178.72" x2="217.22" y2="176.34" stroke="#A4C374" stroke-width="5.04" stroke-linecap="round"/>
+    <line id="symbol-link-12" x1="196.76" y1="33.66" x2="226.58" y2="59.1" stroke="#7CC4C8" stroke-width="5.7" stroke-linecap="round"/>
+    <line id="symbol-link-13" x1="120.78" y1="130.47" x2="149.16" y2="179.11" stroke="#7CC4C8" stroke-width="5.7" stroke-linecap="round"/>
+    <line id="symbol-link-14" x1="149.75" y1="178.22" x2="163.23" y2="144.53" stroke="#7CC4C8" stroke-width="5.7" stroke-linecap="round"/>
+    <line id="symbol-link-15" x1="191.24" y1="67.34" x2="195.98" y2="33.97" stroke="#7CC4C8" stroke-width="5.04" stroke-linecap="round"/>
+    <line id="symbol-link-16" x1="258.13" y1="88.45" x2="270.92" y2="115.16" stroke="#7CC4C8" stroke-width="5.04" stroke-linecap="round"/>
+    <line id="symbol-dash-17" x1="223.33" y1="117.23" x2="227.98" y2="119.81" stroke="#7CC4C8" stroke-width="5.7" stroke-linecap="round"/>
+    <line id="symbol-dash-18" x1="236.26" y1="124.39" x2="237.25" y2="124.94" stroke="#7CC27E" stroke-width="9.89" stroke-linecap="round"/>
+    <line id="symbol-dash-19" x1="245.24" y1="129.37" x2="250.47" y2="132.26" stroke="#7CC4C8" stroke-width="5.04" stroke-linecap="round"/>
+    <line id="symbol-link-20" x1="240.08" y1="109.65" x2="257.62" y2="88.91" stroke="#7CC4C8" stroke-width="5.04" stroke-linecap="round"/>
+    <line id="symbol-link-21" x1="256.4" y1="87.31" x2="295.52" y2="58.85" stroke="#7CC4C8" stroke-width="5.7" stroke-linecap="round"/>
+    <line id="symbol-link-22" x1="65.66" y1="175.21" x2="92.08" y2="208.34" stroke="#7CC27E" stroke-width="9.89" stroke-linecap="round"/>
+    <line id="symbol-link-23" x1="118.68" y1="110.81" x2="121.16" y2="130.08" stroke="#7CC4C8" stroke-width="5.04" stroke-linecap="round"/>
+    <line id="symbol-link-24" x1="70.89" y1="227.24" x2="93" y2="206.83" stroke="#7CC4C8" stroke-width="5.04" stroke-linecap="round"/>
+    <line id="symbol-link-25" x1="212.75" y1="155.19" x2="220.66" y2="174.96" stroke="#A4C374" stroke-width="5.04" stroke-linecap="round"/>
+    <line id="symbol-dash-26" x1="248.43" y1="283.23" x2="250.1" y2="280.04" stroke="#7CC27E" stroke-width="5.04" stroke-linecap="round"/>
+  </g>
+  <g id="symbol-nodes">
+    <circle id="symbol-node-01" cx="196.44" cy="34.04" r="17.39" fill="#7CC4C8"/>
+    <circle id="symbol-node-02" cx="240.35" cy="28.23" r="9.19" fill="#7CC4C8"/>
+    <circle id="symbol-node-03" cx="158.67" cy="35.01" r="8.79" fill="#7CC4C8"/>
+    <circle id="symbol-node-04" cx="296.58" cy="60.31" r="21.8" fill="#7CC4C8"/>
+    <circle id="symbol-node-05" cx="257.46" cy="88.77" r="13.29" fill="#7CC4C8"/>
+    <circle id="symbol-node-06" cx="73.98" cy="119.78" r="11.74" fill="#7CC4C8"/>
+    <circle id="symbol-node-07" cx="348.39" cy="125.46" r="16.7" fill="#7CC4C8"/>
+    <circle id="symbol-node-08" cx="121.53" cy="130.03" r="11.53" fill="#7CC4C8"/>
+    <circle id="symbol-node-09" cx="281.55" cy="147.27" r="23.94" fill="#7CC4C8"/>
+    <circle id="symbol-node-10" cx="67" cy="174.14" r="24.18" fill="#7CC27E"/>
+    <circle id="symbol-node-11" cx="93.41" cy="207.27" r="10.56" fill="#7CC27E"/>
+    <circle id="symbol-node-12" cx="217.22" cy="176.33" r="18.45" fill="#7CC4C8"/>
+    <circle id="symbol-node-13" cx="150.31" cy="178.44" r="18.38" fill="#7CC4C8"/>
+    <circle id="symbol-node-14" cx="352.45" cy="188.11" r="23.7" fill="#E8735A"/>
+    <circle id="symbol-node-15" cx="71.3" cy="227.68" r="10.7" fill="#7CC4C8"/>
+    <circle id="symbol-node-16" cx="346.38" cy="234.96" r="9.89" fill="#DDA45F"/>
+    <circle id="symbol-node-17" cx="206.84" cy="254.04" r="17.36" fill="#7CC4C8"/>
+    <circle id="symbol-node-18" cx="307.73" cy="288.71" r="13.51" fill="#7CC4C8"/>
+    <circle id="symbol-node-19" cx="221.89" cy="317.05" r="23.78" fill="#7CC4C8"/>
+    <circle id="symbol-node-20" cx="161.63" cy="313.88" r="12.56" fill="#7CC4C8"/>
+  </g>
+  <g id="symbol-leaves">
+    <path id="symbol-leaf-1" d="M100.61 89.38 C116.49 104.54 151.92 84.53 138.71 49.49 C103.1 37.91 84.74 74.22 100.61 89.38Z" fill="url(#symbol-leaf-1-grad)"/>
+    <path id="symbol-leaf-2" d="M164.14 131.78 C172.51 139.79 220.75 146.68 219.35 74.04 C146.72 75.89 155.76 123.78 164.14 131.78Z" fill="url(#symbol-leaf-2-grad)"/>
+    <path id="symbol-leaf-3" d="M251.63 273.49 C260.06 280.53 309.54 281.78 301.26 214.15 C233.23 217.96 243.21 266.44 251.63 273.49Z" fill="url(#symbol-leaf-3-grad)"/>
+    <path id="symbol-leaf-4" d="M113.28 302.4 C130 304.95 165.89 282.28 124.74 227.09 C69.03 267.54 96.56 299.85 113.28 302.4Z" fill="url(#symbol-leaf-4-grad)"/>
+  </g>
+  <g id="symbol-veins" fill="none" stroke="#ffffff" stroke-linecap="round">
+    <g id="symbol-leaf-1-veins" clip-path="url(#symbol-leaf-1-clip)">
+      <line id="symbol-leaf-1-vein-midrib" x1="102.9" y1="86.99" x2="132.99" y2="55.48" stroke-width="1.2" stroke-linecap="round"/>
+      <path id="symbol-leaf-1-vein-L1" d="M113.57 75.82 Q112.93 67.39 114.64 59.11" stroke-width="0.8"/>
+      <path id="symbol-leaf-1-vein-R1" d="M113.57 75.82 Q122.02 76.07 130.21 73.98" stroke-width="0.8"/>
+      <path id="symbol-leaf-1-vein-L2" d="M122.71 66.25 Q122.26 60.31 123.46 54.49" stroke-width="0.8"/>
+      <path id="symbol-leaf-1-vein-R2" d="M122.71 66.25 Q128.65 66.42 134.42 64.95" stroke-width="0.8"/>
+    </g>
+    <g id="symbol-leaf-2-veins" clip-path="url(#symbol-leaf-2-clip)">
+      <line id="symbol-leaf-2-vein-midrib" x1="167.45" y1="128.32" x2="211.07" y2="82.7" stroke-width="1.2" stroke-linecap="round"/>
+      <path id="symbol-leaf-2-vein-L1" d="M180.7 114.46 Q179.92 104 182.05 93.73" stroke-width="0.8"/>
+      <path id="symbol-leaf-2-vein-R1" d="M180.7 114.46 Q191.19 114.78 201.35 112.19" stroke-width="0.8"/>
+      <path id="symbol-leaf-2-vein-L2" d="M190.64 104.07 Q190.02 95.79 191.71 87.67" stroke-width="0.8"/>
+      <path id="symbol-leaf-2-vein-R2" d="M190.64 104.07 Q198.93 104.31 206.97 102.27" stroke-width="0.8"/>
+      <path id="symbol-leaf-2-vein-L3" d="M200.58 93.67 Q200.16 88.05 201.3 82.54" stroke-width="0.8"/>
+      <path id="symbol-leaf-2-vein-R3" d="M200.58 93.67 Q206.21 93.84 211.67 92.45" stroke-width="0.8"/>
+    </g>
+    <g id="symbol-leaf-3-veins" clip-path="url(#symbol-leaf-3-clip)">
+      <line id="symbol-leaf-3-vein-midrib" x1="254.61" y1="269.93" x2="293.82" y2="223.05" stroke-width="1.2" stroke-linecap="round"/>
+      <path id="symbol-leaf-3-vein-L1" d="M266.52 255.69 Q265.06 245.38 266.49 235.07" stroke-width="0.8"/>
+      <path id="symbol-leaf-3-vein-R1" d="M266.52 255.69 Q276.92 255.31 286.82 252.07" stroke-width="0.8"/>
+      <path id="symbol-leaf-3-vein-L2" d="M275.45 245 Q274.3 236.87 275.43 228.73" stroke-width="0.8"/>
+      <path id="symbol-leaf-3-vein-R2" d="M275.45 245 Q283.67 244.71 291.48 242.15" stroke-width="0.8"/>
+      <path id="symbol-leaf-3-vein-L3" d="M284.39 234.32 Q283.59 228.75 284.37 223.16" stroke-width="0.8"/>
+      <path id="symbol-leaf-3-vein-R3" d="M284.39 234.32 Q290.02 234.12 295.38 232.37" stroke-width="0.8"/>
+    </g>
+    <g id="symbol-leaf-4-veins" clip-path="url(#symbol-leaf-4-clip)">
+      <line id="symbol-leaf-4-vein-midrib" x1="113.96" y1="297.88" x2="123.02" y2="238.38" stroke-width="1.2" stroke-linecap="round"/>
+      <path id="symbol-leaf-4-vein-L1" d="M116.72 279.81 Q110.22 271.88 106.16 262.46" stroke-width="0.8"/>
+      <path id="symbol-leaf-4-vein-R1" d="M116.72 279.81 Q125.28 274.17 131.96 266.39" stroke-width="0.8"/>
+      <path id="symbol-leaf-4-vein-L2" d="M118.78 266.25 Q113.67 260.01 110.48 252.61" stroke-width="0.8"/>
+      <path id="symbol-leaf-4-vein-R2" d="M118.78 266.25 Q125.52 261.82 130.77 255.7" stroke-width="0.8"/>
+      <path id="symbol-leaf-4-vein-L3" d="M120.84 252.69 Q117.37 248.46 115.2 243.43" stroke-width="0.8"/>
+      <path id="symbol-leaf-4-vein-R3" d="M120.84 252.69 Q125.42 249.68 128.99 245.53" stroke-width="0.8"/>
+    </g>
+  </g>
+  </g>
+  <g id="wordmark">
+  <defs>
+    <linearGradient id="wordmark-leaf-grad" gradientUnits="userSpaceOnUse" x1="546.21" y1="56.17" x2="575.3" y2="27.28">
+      <stop offset="0" stop-color="#7CC27E"/>
+      <stop offset="1" stop-color="#7CC27E"/>
+    </linearGradient>
+    <clipPath id="wordmark-leaf-clip"><path id="wordmark-leaf-clip-path" d="M539.71 62.58 C545.63 68.54 582.09 71.16 583.55 19.06 C531.44 20.14 533.79 56.62 539.71 62.58Z"/></clipPath>
+  </defs>
+  <g id="wordmark-word">
+    <g id="wordmark-letter-N1">
+      <line id="wordmark-letter-N1-stem-left" x1="40.28" y1="168.88" x2="40.28" y2="80.18" stroke="#FFFFFF" stroke-width="21.22" stroke-linecap="round"/>
+      <line id="wordmark-letter-N1-diagonal" x1="40.28" y1="80.18" x2="115.06" y2="168.88" stroke="#FFFFFF" stroke-width="21.22" stroke-linecap="round"/>
+      <line id="wordmark-letter-N1-stem-right" x1="115.06" y1="168.88" x2="115.06" y2="80.18" stroke="#FFFFFF" stroke-width="21.22" stroke-linecap="round"/>
+    </g>
+    <g id="wordmark-letter-R">
+      <line id="wordmark-letter-R-stem" x1="305.38" y1="168.88" x2="305.38" y2="80.18" stroke="#FFFFFF" stroke-width="21.22" stroke-linecap="round"/>
+      <path id="wordmark-letter-R-bowl" d="M305.38 69.57 H348.86 A34.3 34.3 0 0 1 348.86 138.18 H305.38 Z M305.38 90.02 H347.04 A14.23 14.23 0 0 1 347.04 118.47 H305.38 Z" fill="#FFFFFF" fill-rule="evenodd"/>
+      <line id="wordmark-letter-R-leg" x1="341.33" y1="129.2" x2="372.03" y2="168.88" stroke="#FFFFFF" stroke-width="21.22" stroke-linecap="round"/>
+    </g>
+    <g id="wordmark-letter-N2">
+      <line id="wordmark-letter-N2-stem-left" x1="422.6" y1="168.88" x2="422.6" y2="80.18" stroke="#FFFFFF" stroke-width="21.22" stroke-linecap="round"/>
+      <line id="wordmark-letter-N2-diagonal" x1="422.6" y1="80.18" x2="496.19" y2="168.88" stroke="#FFFFFF" stroke-width="21.22" stroke-linecap="round"/>
+      <line id="wordmark-letter-N2-stem-right" x1="496.19" y1="168.88" x2="496.19" y2="80.18" stroke="#FFFFFF" stroke-width="21.22" stroke-linecap="round"/>
+    </g>
+    <g id="wordmark-letter-I">
+      <line id="wordmark-letter-I-stem" x1="550.2" y1="168.88" x2="550.2" y2="87.59" stroke="#FFFFFF" stroke-width="21.22" stroke-linecap="round"/>
+    </g>
+    <g id="wordmark-network-a">
+      <g id="wordmark-letter-A1">
+        <line id="wordmark-letter-A1-line-diagonal-left" x1="211.02" y1="86.12" x2="164.23" y2="165.4" stroke="#7CC4C8" stroke-width="13.75" stroke-linecap="round"/>
+        <line id="wordmark-letter-A1-line-diagonal-right" x1="211.65" y1="86.07" x2="256.71" y2="165.33" stroke="#7CC4C8" stroke-width="13.75" stroke-linecap="round"/>
+        <line id="wordmark-letter-A1-line-base" x1="164.07" y1="156.94" x2="256.8" y2="156.94" stroke="#7CC4C8" stroke-width="12.87" stroke-linecap="round"/>
+        <circle id="wordmark-letter-A1-node-apex" cx="211.28" cy="86.27" r="16.7" fill="#7CC4C8"/>
+        <circle id="wordmark-letter-A1-node-bottom-left" cx="164.36" cy="165.48" r="14.99" fill="#7CC4C8"/>
+        <circle id="wordmark-letter-A1-node-bottom-right" cx="256.44" cy="165.48" r="14.99" fill="#7CC4C8"/>
+      </g>
+      <g id="wordmark-letter-A2">
+        <line id="wordmark-letter-A2-line-diagonal-left" x1="627.65" y1="115.18" x2="598.7" y2="167.56" stroke="#FFFFFF" stroke-width="14.61" stroke-linecap="round"/>
+        <line id="wordmark-letter-A2-line-diagonal-right" x1="660" y1="115.7" x2="688.45" y2="167.26" stroke="#FFFFFF" stroke-width="14.61" stroke-linecap="round"/>
+        <line id="wordmark-letter-A2-line-base" x1="600.88" y1="158.97" x2="686.82" y2="158.97" stroke="#FFFFFF" stroke-width="12.87" stroke-linecap="round"/>
+        <circle id="wordmark-letter-A2-node-apex" cx="643.71" cy="87.66" r="17.22" fill="#E8735A"/>
+        <circle id="wordmark-letter-A2-node-bottom-left" cx="598.4" cy="167.39" r="13.09" fill="#FFFFFF"/>
+        <circle id="wordmark-letter-A2-node-bottom-right" cx="688.22" cy="167.39" r="13.09" fill="#FFFFFF"/>
+      </g>
+    </g>
+  </g>
+  <g id="wordmark-leaf">
+    <path id="wordmark-leaf-blade" d="M539.71 62.58 C545.63 68.54 582.09 71.16 583.55 19.06 C531.44 20.14 533.79 56.62 539.71 62.58Z" fill="url(#wordmark-leaf-grad)"/>
+    <g id="wordmark-leaf-veins" clip-path="url(#wordmark-leaf-clip)" fill="none" stroke="#ffffff" stroke-linecap="round">
+      <line id="wordmark-leaf-vein-midrib" x1="542.34" y1="59.97" x2="576.97" y2="25.59" stroke-width="1.2" stroke-linecap="round"/>
+      <path id="wordmark-leaf-vein-L1" d="M552.86 49.52 Q552.49 41.79 554.26 34.24" stroke-width="0.8"/>
+      <path id="wordmark-leaf-vein-R1" d="M552.86 49.52 Q560.6 49.96 568.15 48.24" stroke-width="0.8"/>
+      <path id="wordmark-leaf-vein-L2" d="M560.75 41.69 Q560.45 35.52 561.86 29.5" stroke-width="0.8"/>
+      <path id="wordmark-leaf-vein-R2" d="M560.75 41.69 Q566.93 42.04 572.96 40.67" stroke-width="0.8"/>
+      <path id="wordmark-leaf-vein-L3" d="M568.64 33.86 Q568.44 29.64 569.4 25.52" stroke-width="0.8"/>
+      <path id="wordmark-leaf-vein-R3" d="M568.64 33.86 Q572.86 34.1 576.98 33.16" stroke-width="0.8"/>
+    </g>
+  </g>
+  <g id="wordmark-tagline">
+    <g id="wordmark-tag-01-N" fill="none" stroke="#FFFFFF">
+      <line id="wordmark-tag-01-N-s1" x1="32.27" y1="229.21" x2="32.27" y2="208.56" stroke="#FFFFFF" stroke-width="3.37" stroke-linecap="butt"/>
+      <line id="wordmark-tag-01-N-s2" x1="45.43" y1="229.21" x2="45.43" y2="208.56" stroke="#FFFFFF" stroke-width="3.37" stroke-linecap="butt"/>
+      <polygon id="wordmark-tag-01-N-s3" points="33.95 208.56 33.95 213.96 43.47 229.21 43.74 229.21 43.74 223.81 34.22 208.56" fill="#FFFFFF" stroke="none"/>
+    </g>
+    <g id="wordmark-tag-02-A" fill="none" stroke="#FFFFFF">
+      <polygon id="wordmark-tag-02-A-s1" points="65.26 208.56 63.56 208.56 55.88 229.21 59.18 229.21 65.26 212.84" fill="#FFFFFF" stroke="none"/>
+      <polygon id="wordmark-tag-02-A-s2" points="65.26 208.56 65.26 212.84 71.35 229.21 74.64 229.21 66.97 208.56" fill="#FFFFFF" stroke="none"/>
+      <line id="wordmark-tag-02-A-s3" x1="61.02" y1="222.69" x2="69.5" y2="222.69" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+    </g>
+    <g id="wordmark-tag-03-T" fill="none" stroke="#FFFFFF">
+      <line id="wordmark-tag-03-T-s1" x1="79.71" y1="210.11" x2="95.24" y2="210.11" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+      <line id="wordmark-tag-03-T-s2" x1="87.47" y1="229.21" x2="87.47" y2="211.65" stroke="#FFFFFF" stroke-width="3.37" stroke-linecap="butt"/>
+    </g>
+    <g id="wordmark-tag-04-U" fill="none" stroke="#FFFFFF">
+      <line id="wordmark-tag-04-U-s1" x1="106.16" y1="222.56" x2="106.16" y2="208.56" stroke="#FFFFFF" stroke-width="3.37" stroke-linecap="butt"/>
+      <line id="wordmark-tag-04-U-s2" x1="118.82" y1="222.56" x2="118.82" y2="208.56" stroke="#FFFFFF" stroke-width="3.37" stroke-linecap="butt"/>
+      <path id="wordmark-tag-04-U-s3" d="M120.504 222.564 A8.012 6.968 0 0 1 104.480 222.564 L107.849 222.564 A4.643 3.880 0 0 0 117.135 222.564 Z" fill="#FFFFFF" stroke="none"/>
+    </g>
+    <g id="wordmark-tag-05-R" fill="none" stroke="#FFFFFF">
+      <line id="wordmark-tag-05-R-s1" x1="133.06" y1="229.21" x2="133.06" y2="208.56" stroke="#FFFFFF" stroke-width="3.37" stroke-linecap="butt"/>
+      <line id="wordmark-tag-05-R-s2" x1="134.75" y1="210.11" x2="140.54" y2="210.11" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+      <line id="wordmark-tag-05-R-s3" x1="134.75" y1="219.63" x2="140.54" y2="219.63" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+      <path id="wordmark-tag-05-R-s4" d="M140.536 208.565 A5.546 6.303 0 0 1 140.536 221.171 L140.536 218.083 A2.177 3.215 0 0 0 140.536 211.654 Z" fill="#FFFFFF" stroke="none"/>
+      <polygon id="wordmark-tag-05-R-s5" points="138.62 221.17 143.35 229.21 146.94 229.21 142.21 221.17" fill="#FFFFFF" stroke="none"/>
+    </g>
+    <g id="wordmark-tag-06-E" fill="none" stroke="#FFFFFF">
+      <line id="wordmark-tag-06-E-s1" x1="159.04" y1="229.21" x2="159.04" y2="208.56" stroke="#FFFFFF" stroke-width="3.37" stroke-linecap="butt"/>
+      <line id="wordmark-tag-06-E-s2" x1="160.73" y1="210.11" x2="170.68" y2="210.11" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+      <line id="wordmark-tag-06-E-s3" x1="160.73" y1="218.59" x2="168.81" y2="218.59" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+      <line id="wordmark-tag-06-E-s4" x1="160.73" y1="227.66" x2="170.57" y2="227.66" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+    </g>
+    <g id="wordmark-tag-07-hyphen" fill="none" stroke="#FFFFFF">
+      <line id="wordmark-tag-07-hyphen-s1" x1="181.33" y1="220.17" x2="188.42" y2="220.17" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+    </g>
+    <g id="wordmark-tag-08-R" fill="none" stroke="#FFFFFF">
+      <line id="wordmark-tag-08-R-s1" x1="200.96" y1="229.21" x2="200.96" y2="208.56" stroke="#FFFFFF" stroke-width="3.37" stroke-linecap="butt"/>
+      <line id="wordmark-tag-08-R-s2" x1="202.64" y1="210.11" x2="207.97" y2="210.11" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+      <line id="wordmark-tag-08-R-s3" x1="202.64" y1="219.7" x2="207.97" y2="219.7" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+      <path id="wordmark-tag-08-R-s4" d="M207.972 208.565 A5.966 6.338 0 0 1 207.972 221.242 L207.972 218.154 A2.597 3.250 0 0 0 207.972 211.654 Z" fill="#FFFFFF" stroke="none"/>
+      <polygon id="wordmark-tag-08-R-s5" points="206.25 221.24 211.08 229.21 214.7 229.21 209.86 221.24" fill="#FFFFFF" stroke="none"/>
+    </g>
+    <g id="wordmark-tag-09-E" fill="none" stroke="#FFFFFF">
+      <line id="wordmark-tag-09-E-s1" x1="226.59" y1="229.21" x2="226.59" y2="208.56" stroke="#FFFFFF" stroke-width="3.37" stroke-linecap="butt"/>
+      <line id="wordmark-tag-09-E-s2" x1="228.28" y1="210.11" x2="238.16" y2="210.11" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+      <line id="wordmark-tag-09-E-s3" x1="228.28" y1="218.62" x2="236.53" y2="218.62" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+      <line id="wordmark-tag-09-E-s4" x1="228.28" y1="227.66" x2="238.46" y2="227.66" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+    </g>
+    <g id="wordmark-tag-10-L" fill="none" stroke="#FFFFFF">
+      <line id="wordmark-tag-10-L-s1" x1="250.91" y1="229.21" x2="250.91" y2="208.56" stroke="#FFFFFF" stroke-width="3.37" stroke-linecap="butt"/>
+      <line id="wordmark-tag-10-L-s2" x1="252.6" y1="227.66" x2="261.83" y2="227.66" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+    </g>
+    <g id="wordmark-tag-11-A" fill="none" stroke="#FFFFFF">
+      <polygon id="wordmark-tag-11-A-s1" points="279.69 208.56 278.12 208.56 270.35 229.21 273.64 229.21 279.69 213.16" fill="#FFFFFF" stroke="none"/>
+      <polygon id="wordmark-tag-11-A-s2" points="279.69 208.56 279.69 213.16 285.73 229.21 289.03 229.21 281.26 208.56" fill="#FFFFFF" stroke="none"/>
+      <line id="wordmark-tag-11-A-s3" x1="275.53" y1="222.66" x2="283.85" y2="222.66" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+    </g>
+    <g id="wordmark-tag-12-T" fill="none" stroke="#FFFFFF">
+      <line id="wordmark-tag-12-T-s1" x1="295.29" y1="210.11" x2="311.15" y2="210.11" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+      <line id="wordmark-tag-12-T-s2" x1="303.22" y1="229.21" x2="303.22" y2="211.65" stroke="#FFFFFF" stroke-width="3.37" stroke-linecap="butt"/>
+    </g>
+    <g id="wordmark-tag-13-E" fill="none" stroke="#FFFFFF">
+      <line id="wordmark-tag-13-E-s1" x1="322.67" y1="229.21" x2="322.67" y2="208.56" stroke="#FFFFFF" stroke-width="3.37" stroke-linecap="butt"/>
+      <line id="wordmark-tag-13-E-s2" x1="324.35" y1="210.11" x2="334.03" y2="210.11" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+      <line id="wordmark-tag-13-E-s3" x1="324.35" y1="218.77" x2="332.53" y2="218.77" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+      <line id="wordmark-tag-13-E-s4" x1="324.35" y1="227.66" x2="334.49" y2="227.66" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+    </g>
+    <g id="wordmark-tag-14-D" fill="none" stroke="#FFFFFF">
+      <line id="wordmark-tag-14-D-s1" x1="346.8" y1="229.21" x2="346.8" y2="208.56" stroke="#FFFFFF" stroke-width="3.37" stroke-linecap="butt"/>
+      <line id="wordmark-tag-14-D-s2" x1="348.49" y1="210.11" x2="352.93" y2="210.11" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+      <line id="wordmark-tag-14-D-s3" x1="348.49" y1="227.66" x2="352.93" y2="227.66" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+      <path id="wordmark-tag-14-D-s4" d="M352.932 208.565 A8.699 10.321 0 0 1 352.932 229.208 L352.932 226.119 A5.330 7.233 0 0 0 352.932 211.654 Z" fill="#FFFFFF" stroke="none"/>
+    </g>
+    <g id="wordmark-tag-15-S" fill="none" stroke="#FFFFFF">
+      <path id="wordmark-tag-15-S-s1" d="M392.696 219.202 A7.077 5.964 0 1 1 403.018 212.165 L399.827 213.155 A3.708 2.876 0 1 0 394.419 216.548 Z" fill="#FFFFFF" stroke="none"/>
+      <path id="wordmark-tag-15-S-s2" d="M399.448 218.146 A7.714 6.063 0 1 1 388.370 224.899 L391.651 224.198 A4.345 2.974 0 1 0 397.890 220.885 Z" fill="#FFFFFF" stroke="none"/>
+      <path id="wordmark-tag-15-S-s3" d="M393.557 217.875 C390.843 216.551 407.569 222.992 398.669 219.515" stroke-width="3.09" stroke-linecap="butt" stroke-linejoin="miter"/>
+    </g>
+    <g id="wordmark-tag-16-Y" fill="none" stroke="#FFFFFF">
+      <polygon id="wordmark-tag-16-Y-s1" points="411.65 208.56 418.74 220.45 420.53 220.45 420.53 217.43 415.25 208.56" fill="#FFFFFF" stroke="none"/>
+      <polygon id="wordmark-tag-16-Y-s2" points="425.82 208.56 420.53 217.43 420.53 220.45 422.33 220.45 429.41 208.56" fill="#FFFFFF" stroke="none"/>
+      <line id="wordmark-tag-16-Y-s3" x1="420.53" y1="229.21" x2="420.53" y2="220.45" stroke="#FFFFFF" stroke-width="3.37" stroke-linecap="butt"/>
+    </g>
+    <g id="wordmark-tag-17-S" fill="none" stroke="#FFFFFF">
+      <path id="wordmark-tag-17-S-s1" d="M441.723 219.481 A7.137 6.075 0 1 1 452.099 212.525 L448.860 213.374 A3.768 2.986 0 1 0 443.382 216.793 Z" fill="#FFFFFF" stroke="none"/>
+      <path id="wordmark-tag-17-S-s2" d="M448.093 218.183 A7.626 5.930 0 1 1 437.427 224.956 L440.700 224.221 A4.257 2.842 0 1 0 446.653 220.975 Z" fill="#FFFFFF" stroke="none"/>
+      <path id="wordmark-tag-17-S-s3" d="M442.553 218.137 C435.842 214.983 456.139 222.638 447.373 219.579" stroke-width="3.09" stroke-linecap="butt" stroke-linejoin="miter"/>
+    </g>
+    <g id="wordmark-tag-18-T" fill="none" stroke="#FFFFFF">
+      <line id="wordmark-tag-18-T-s1" x1="461.01" y1="210.11" x2="476.64" y2="210.11" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+      <line id="wordmark-tag-18-T-s2" x1="468.83" y1="229.21" x2="468.83" y2="211.65" stroke="#FFFFFF" stroke-width="3.37" stroke-linecap="butt"/>
+    </g>
+    <g id="wordmark-tag-19-E" fill="none" stroke="#FFFFFF">
+      <line id="wordmark-tag-19-E-s1" x1="488.13" y1="229.21" x2="488.13" y2="208.56" stroke="#FFFFFF" stroke-width="3.37" stroke-linecap="butt"/>
+      <line id="wordmark-tag-19-E-s2" x1="489.81" y1="210.11" x2="499.79" y2="210.11" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+      <line id="wordmark-tag-19-E-s3" x1="489.81" y1="218.58" x2="497.99" y2="218.58" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+      <line id="wordmark-tag-19-E-s4" x1="489.81" y1="227.66" x2="499.67" y2="227.66" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+    </g>
+    <g id="wordmark-tag-20-M" fill="none" stroke="#FFFFFF">
+      <line id="wordmark-tag-20-M-s1" x1="512.12" y1="229.21" x2="512.12" y2="208.56" stroke="#FFFFFF" stroke-width="3.37" stroke-linecap="butt"/>
+      <line id="wordmark-tag-20-M-s2" x1="528.41" y1="229.21" x2="528.41" y2="208.56" stroke="#FFFFFF" stroke-width="3.37" stroke-linecap="butt"/>
+      <polygon id="wordmark-tag-20-M-s3" points="513.8 208.56 513.8 216.25 518.58 227.14 520.26 227.14 520.26 223.3 513.8 208.56" fill="#FFFFFF" stroke="none"/>
+      <polygon id="wordmark-tag-20-M-s4" points="526.73 208.56 526.72 208.56 520.26 223.3 520.26 227.14 521.95 227.14 526.73 216.25" fill="#FFFFFF" stroke="none"/>
+    </g>
+    <g id="wordmark-tag-21-I" fill="none" stroke="#FFFFFF">
+      <line id="wordmark-tag-21-I-s1" x1="543.44" y1="229.21" x2="543.44" y2="208.56" stroke="#FFFFFF" stroke-width="3.37" stroke-linecap="butt"/>
+    </g>
+    <g id="wordmark-tag-22-C" fill="none" stroke="#FFFFFF">
+      <path id="wordmark-tag-22-C-s1" d="M572.431 225.099 A9.515 10.749 0 1 1 572.246 212.433 L569.557 214.294 A6.146 7.661 0 1 0 569.676 223.321 Z" fill="#FFFFFF" stroke="none"/>
+    </g>
+    <g id="wordmark-tag-23-R" fill="none" stroke="#FFFFFF">
+      <line id="wordmark-tag-23-R-s1" x1="598.88" y1="229.21" x2="598.88" y2="208.56" stroke="#FFFFFF" stroke-width="3.37" stroke-linecap="butt"/>
+      <line id="wordmark-tag-23-R-s2" x1="600.56" y1="210.11" x2="605.91" y2="210.11" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+      <line id="wordmark-tag-23-R-s3" x1="600.56" y1="219.66" x2="605.91" y2="219.66" stroke="#FFFFFF" stroke-width="3.09" stroke-linecap="butt"/>
+      <path id="wordmark-tag-23-R-s4" d="M605.908 208.565 A5.989 6.320 0 0 1 605.908 221.205 L605.908 218.116 A2.620 3.231 0 0 0 605.908 211.654 Z" fill="#FFFFFF" stroke="none"/>
+      <polygon id="wordmark-tag-23-R-s5" points="604.29 221.21 609.06 229.21 612.65 229.21 607.89 221.21" fill="#FFFFFF" stroke="none"/>
+    </g>
+    <g id="wordmark-tag-24-I" fill="none" stroke="#FFFFFF">
+      <line id="wordmark-tag-24-I-s1" x1="624.49" y1="229.21" x2="624.49" y2="208.56" stroke="#FFFFFF" stroke-width="3.37" stroke-linecap="butt"/>
+    </g>
+    <g id="wordmark-tag-25-S" fill="none" stroke="#FFFFFF">
+      <path id="wordmark-tag-25-S-s1" d="M641.682 218.795 A7.180 5.482 0 1 1 651.179 212.217 L647.932 213.040 A3.811 2.394 0 1 0 642.891 215.913 Z" fill="#FFFFFF" stroke="none"/>
+      <path id="wordmark-tag-25-S-s2" d="M647.594 217.984 A7.697 6.163 0 1 1 636.482 224.970 L639.740 224.184 A4.328 3.075 0 1 0 645.988 220.699 Z" fill="#FFFFFF" stroke="none"/>
+      <path id="wordmark-tag-25-S-s3" d="M642.286 217.354 C630.829 214.197 655.724 223.063 646.791 219.341" stroke-width="3.09" stroke-linecap="butt" stroke-linejoin="miter"/>
+    </g>
+    <g id="wordmark-tag-26-K" fill="none" stroke="#FFFFFF">
+      <line id="wordmark-tag-26-K-s1" x1="663.68" y1="229.21" x2="663.68" y2="208.56" stroke="#FFFFFF" stroke-width="3.37" stroke-linecap="butt"/>
+      <polygon id="wordmark-tag-26-K-s2" points="673.51 208.56 665.36 217.9 665.36 222.6 677.62 208.56" fill="#FFFFFF" stroke="none"/>
+      <polygon id="wordmark-tag-26-K-s3" points="666 217.36 674.32 229.21 678.1 229.21 669.78 217.36" fill="#FFFFFF" stroke="none"/>
+    </g>
+    <g id="wordmark-tag-27-S" fill="none" stroke="#FFFFFF">
+      <path id="wordmark-tag-27-S-s1" d="M690.204 219.264 A7.216 5.916 0 1 1 700.701 212.217 L697.522 213.241 A3.847 2.828 0 1 0 691.926 216.610 Z" fill="#FFFFFF" stroke="none"/>
+      <path id="wordmark-tag-27-S-s2" d="M697.437 218.096 A7.804 6.238 0 1 1 685.607 224.813 L688.879 224.077 A4.435 3.150 0 1 0 695.602 220.686 Z" fill="#FFFFFF" stroke="none"/>
+      <path id="wordmark-tag-27-S-s3" d="M691.065 217.937 C688.214 216.597 704.617 223.425 696.520 219.391" stroke-width="3.09" stroke-linecap="butt" stroke-linejoin="miter"/>
+    </g>
+  </g>
+  </g>
+</svg>

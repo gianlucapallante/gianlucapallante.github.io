@@ -22,15 +22,9 @@ _styles: >
     <img class="narnia-logo narnia-logo-funder" src="{{ '/assets/img/narnia/mur-logo.png' | relative_url }}" alt="Ministero dell'Università e della Ricerca (MUR)" width="707" height="212">
     <span class="narnia-logos-divider" aria-hidden="true"></span>
     <img class="narnia-logo narnia-logo-funder" src="{{ '/assets/img/narnia/fis-logo.svg' | relative_url }}" alt="Fondo Italiano per la Scienza (FIS)" width="5642" height="2996">
-    {% comment %}
-    NARNIA logo (hidden until the final logo is ready).
-    To switch it on: save the logo as assets/img/narnia/narnia-horizontal-color.svg
-    and the white/light version as assets/img/narnia/narnia-horizontal-reverse.svg,
-    then delete the two Liquid "comment" / "endcomment" lines wrapping this block.
-    <span class="narnia-logos-divider" aria-hidden="true"></span>
-    <img class="narnia-logo narnia-logo-light" src="{{ '/assets/img/narnia/narnia-horizontal-color.svg' | relative_url }}" alt="NARNIA – Nature-related systemic risks">
-    <img class="narnia-logo narnia-logo-dark" src="{{ '/assets/img/narnia/narnia-horizontal-reverse.svg' | relative_url }}" alt="NARNIA – Nature-related systemic risks">
-    {% endcomment %}
+    <span class="narnia-logos-divider narnia-logos-divider-project" aria-hidden="true"></span>
+    <img class="narnia-logo narnia-logo-light" src="{{ '/assets/img/narnia/narnia-horizontal-color.svg' | relative_url }}" alt="NARNIA – Nature-related systemic risks" width="1107" height="317">
+    <img class="narnia-logo narnia-logo-dark" src="{{ '/assets/img/narnia/narnia-horizontal-reverse.svg' | relative_url }}" alt="NARNIA – Nature-related systemic risks" width="1107" height="317">
   </div>
 
   <div class="narnia-meta">

@@ -435,12 +435,13 @@ article > .clearfix ~ h2 {
 }
 
 .narnia-logo {
-  height: 56px;
+  // 70px keeps the NARNIA tagline readable (it needs about 240px of width)
+  height: 70px;
   width: auto;
 
-  // keep the logos on one row on phones
+  // keep MUR | FIS on one row on phones
   @media (max-width: 420px) {
-    height: 46px;
+    height: 52px;
   }
 }
 
@@ -452,6 +453,13 @@ article > .clearfix ~ h2 {
   align-self: stretch;
   width: 1px;
   background: var(--global-divider-color);
+}
+
+// below ~790px the NARNIA logo wraps to its own line, so drop the divider before it
+.narnia-logos-divider-project {
+  @media (max-width: 789.98px) {
+    display: none;
+  }
 }
 
 .narnia-meta {

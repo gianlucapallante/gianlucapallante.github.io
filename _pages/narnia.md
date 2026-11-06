@@ -5,52 +5,47 @@ permalink: /narnia/
 description: NAture-related systemic Risks — micro exposures, macro-financial policies for a Network-based Integrated Assessment
 nav: true
 nav_order: 3
+_styles: >
+  .post-header { display: none; }
 ---
 
 <!-- _pages/narnia.md -->
+<!-- The default page heading is hidden (see _styles above); the navbar and browser tab still use "NARNIA". -->
 
-<div class="narnia-facts">
-  <dl>
-    <div>
-      <dt>Funder</dt>
-      <dd>Italian Ministry of University and Research (MUR)</dd>
-    </div>
-    <div>
-      <dt>Programme</dt>
-      <dd>Italian Science Fund (FIS) 2024–2025, FIS 3 Call</dd>
-    </div>
-    <div>
-      <dt>Grant number</dt>
-      <dd>FIS-2024-03328</dd>
-    </div>
-    <div>
-      <dt>CUP</dt>
-      <dd>J53C25002440001</dd>
-    </div>
-    <div>
-      <dt>Start</dt>
-      <dd>May 2026</dd>
-    </div>
-  </dl>
-</div>
+<header class="narnia-cover">
+  <h1 class="narnia-title">
+    NAture-related systemic Risks: micro exposures, macro-financial policies for a Network-based Integrated Assessment
+    <span class="narnia-acronym">(NARNIA)</span>
+  </h1>
 
-<p class="narnia-jump">
-  Jump to:
-  <a href="#overview">Overview</a> |
-  <a href="#pillars">Research pillars</a> |
-  <a href="#contribution">Expected contribution</a> |
-  <a href="#funding">Funding</a>
-</p>
+  <div class="narnia-logos" role="group" aria-label="Funders and project logo">
+    <img class="narnia-logo narnia-logo-funder" src="{{ '/assets/img/narnia/mur-logo.png' | relative_url }}" alt="Ministero dell'Università e della Ricerca (MUR)" width="707" height="212">
+    <span class="narnia-logos-divider" aria-hidden="true"></span>
+    <img class="narnia-logo narnia-logo-funder" src="{{ '/assets/img/narnia/fis-logo.svg' | relative_url }}" alt="Fondo Italiano per la Scienza (FIS)" width="5642" height="2996">
+    {% comment %}
+    NARNIA logo (hidden until the final logo is ready).
+    To switch it on: save the logo as assets/img/narnia/narnia-horizontal-color.svg
+    and the white/light version as assets/img/narnia/narnia-horizontal-reverse.svg,
+    then delete the two Liquid "comment" / "endcomment" lines wrapping this block.
+    <span class="narnia-logos-divider" aria-hidden="true"></span>
+    <img class="narnia-logo narnia-logo-light" src="{{ '/assets/img/narnia/narnia-horizontal-color.svg' | relative_url }}" alt="NARNIA – Nature-related systemic risks">
+    <img class="narnia-logo narnia-logo-dark" src="{{ '/assets/img/narnia/narnia-horizontal-reverse.svg' | relative_url }}" alt="NARNIA – Nature-related systemic risks">
+    {% endcomment %}
+  </div>
+
+  <div class="narnia-meta">
+    <p><span>5-year grant</span> · <span>€1.039 million</span></p>
+    <p>Italian Science Fund (FIS) 2024–2025, FIS 3 Starting Grant</p>
+    <p><span>FIS-2024-03328</span> · <span>CUP J53C25002440001</span></p>
+    <p><span>Start · May 2026</span></p>
+  </div>
+</header>
 
 <hr>
 
 <h2 id="overview" class="mt-4">Overview</h2>
 
-The NARNIA project will develop a unified framework to assess the socio-economic consequences of nature degradation and identify suitable policy actions that ensure the stability of economic systems while aligning with ecosystem preservation.
-
-The accelerating impacts of climate change and the degradation of ecosystems present a dual crisis that threatens human survival and the sustainability of economic activities. While climate change has gained significant attention, the alarming pace at which nature and the services it provides are degrading poses equally critical risks. Environmental degradation deeply affects human activities, propagates through economic and financial networks, and builds up systemic financial distress. Economic and financial actors are unprepared to assess and mitigate these risks, revealing a critical gap in quantitative modelling, scenario-based risk assessment, and nature-aligned policy design.
-
-NARNIA addresses these challenges by developing an integrated macro-financial framework that quantifies how nature-related risks percolate through economic and financial systems. It brings together insights from earth system science, economics, sustainable finance, integrated assessment, and agent-based modelling in a coherent manner.
+The NARNIA project will develop a unified framework to assess the socio-economic consequences of nature degradation and identify suitable policy actions that ensure the stability of economic systems while aligning with ecosystem preservation. Environmental degradation deeply affects human activities, propagates through economic and financial networks, and builds up systemic distress. Economic and financial actors are unprepared to assess and mitigate these risks, revealing a critical gap in quantitative modelling, scenario-based risk assessment, and nature-aligned policy design.
 
 <h2 id="pillars" class="mt-5">Research pillars</h2>
 
@@ -71,13 +66,6 @@ NARNIA addresses these challenges by developing an integrated macro-financial fr
     <p>Evaluating transition pathways and policy frameworks that ensure both economic stability and ecosystem resilience.</p>
   </div>
 </div>
-
-<h2 id="contribution" class="mt-5">Expected contribution</h2>
-
-The project will deliver new evidence on two under-investigated aspects of nature-related risks:
-
-- **Transmission.** How environmental degradation transmits through economic and financial networks, leading to systemic vulnerabilities.
-- **Policy.** How macroeconomic and regulatory policies can safeguard economic stability while supporting global nature restoration targets, such as those envisioned by the Kunming-Montreal Global Biodiversity Framework.
 
 <hr class="mt-5">
 

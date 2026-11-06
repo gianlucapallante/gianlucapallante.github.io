@@ -399,40 +399,74 @@ article > .clearfix ~ h2 {
 
 // NARNIA project page ---------------------------------------------------------
 
-.narnia-facts {
-  margin: 0.5rem 0 1.5rem;
-  padding: 1.1rem 1.4rem;
-  border: 1px solid var(--global-divider-color);
-  border-left: 3px solid var(--global-theme-color);
-  border-radius: 10px;
-  background: var(--global-card-bg-color);
+// Cover: bold full title, logo row (MUR | FIS | NARNIA), italic grant details.
+.narnia-cover {
+  margin: 0.5rem 0 1.75rem;
+  text-align: center;
+}
 
-  dl {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
-    gap: 0.9rem 1.5rem;
-    margin: 0;
-  }
+.narnia-title {
+  margin: 0 auto 1.75rem;
+  max-width: 46rem;
+  font-family: $font-sans;
+  font-size: 1.75rem;
+  font-weight: 700;
+  line-height: 1.3;
 
-  dt {
-    font-family: $font-sans;
-    font-size: 0.75rem;
-    font-weight: 600;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-    color: var(--global-text-color-light);
-  }
-
-  dd {
-    margin: 0.15rem 0 0;
-    font-family: $font-sans;
-    font-size: 0.95rem;
+  @media (max-width: 576px) {
+    font-size: 1.35rem;
   }
 }
 
-.narnia-jump {
-  text-align: center;
+.narnia-acronym {
+  white-space: nowrap;
+  color: var(--global-theme-color);
+}
+
+// Logo row. MUR first, then FIS, then the project logo, all the same height, with
+// clear space wider than 1/7 of the logo width (FIS communication guidelines).
+.narnia-logos {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem 2rem;
+  margin: 0 0 1.75rem;
+}
+
+.narnia-logo {
+  height: 56px;
+  width: auto;
+
+  // keep the logos on one row on phones
+  @media (max-width: 420px) {
+    height: 46px;
+  }
+}
+
+.narnia-logo-dark {
+  display: none;
+}
+
+.narnia-logos-divider {
+  align-self: stretch;
+  width: 1px;
+  background: var(--global-divider-color);
+}
+
+.narnia-meta {
+  font-style: italic;
   font-size: 1.05rem;
+  color: var(--global-text-color-light);
+
+  p {
+    margin: 0.2rem 0;
+  }
+
+  // keep short items such as "CUP J53C25002440001" on one line
+  span {
+    white-space: nowrap;
+  }
 }
 
 .narnia-pillars {
@@ -477,4 +511,20 @@ article > .clearfix ~ h2 {
 .narnia-funding {
   font-size: 0.9rem;
   color: var(--global-text-color-light);
+}
+
+// Dark mode: funder logos switch to their white, single-colour (negative) versions;
+// the NARNIA logo swaps to its reverse file.
+html[data-theme="dark"] {
+  .narnia-logo-funder {
+    filter: brightness(0) invert(1);
+  }
+
+  .narnia-logo-light {
+    display: none;
+  }
+
+  .narnia-logo-dark {
+    display: inline;
+  }
 }

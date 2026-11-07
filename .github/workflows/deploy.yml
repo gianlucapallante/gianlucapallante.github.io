@@ -96,7 +96,8 @@ jobs:
           bundle exec jekyll build
       - name: Purge unused CSS 🧹
         run: |
-          npm install -g purgecss
+          # pinned: purgecss 9 (Nov 2026) needs Node >= 22.12 and fails on this runner
+          npm install -g purgecss@8
           purgecss -c purgecss.config.js
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'

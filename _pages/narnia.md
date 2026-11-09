@@ -28,10 +28,9 @@ _styles: >
   </div>
 
   <div class="narnia-meta">
-    <p><span>5-year grant</span> · <span>€1.039 million</span></p>
     <p>Italian Science Fund (FIS) 2024–2025, FIS 3 Starting Grant</p>
     <p><span>FIS-2024-03328</span> · <span>CUP J53C25002440001</span></p>
-    <p><span>Start · May 2026</span></p>
+    <p><span>5-year grant</span> · <span>Start: May 2026</span></p>
   </div>
 </header>
 
